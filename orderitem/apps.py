@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class OreritemConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'oreritem'
+    name = 'orderitem'
